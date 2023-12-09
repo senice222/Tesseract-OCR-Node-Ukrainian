@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+*.pem
+*.log
+
+# Dependency directories
+/node_modules
+
+# Optional: Testing
+/coverage
+/.nyc_output
+
+# Optional: Production build
+/build
+
+# OS generated files
+.DS_Store
+Thumbs.db
